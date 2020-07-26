@@ -17,5 +17,5 @@
 
 // document.querySelector
 let par4 = document.querySelector("#b p");
-par4.style.color = "green";
+par4.style.color = "lightblue";
 par4.style.fontSize = "30px";
